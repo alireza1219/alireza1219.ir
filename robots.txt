@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://alireza1219.ir/sitemap.xml
