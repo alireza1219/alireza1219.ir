@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>DOS on Alireza Barani</title>
+    <link>https://alireza1219.ir/tags/dos/</link>
+    <description>Recent content in DOS on Alireza Barani</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 20 Sep 2022 15:30:00 +0430</lastBuildDate><atom:link href="https://alireza1219.ir/tags/dos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ساخت USB قابل بوت DOS</title>
+      <link>https://alireza1219.ir/posts/bootable-dos-usb/</link>
+      <pubDate>Tue, 20 Sep 2022 15:30:00 +0430</pubDate>
+      
+      <guid>https://alireza1219.ir/posts/bootable-dos-usb/</guid>
+      <description>با من در ساخت USB بوتیبل DOS همراه باشید :)</description>
+    </item>
+    
+  </channel>
+</rss>

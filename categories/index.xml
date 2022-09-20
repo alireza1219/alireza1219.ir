@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Categories on Alireza Barani</title>
+    <title>دسته‌بندی‌ها on Alireza Barani</title>
     <link>https://alireza1219.ir/categories/</link>
-    <description>Recent content in Categories on Alireza Barani</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://alireza1219.ir/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content in دسته‌بندی‌ها on Alireza Barani</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 20 Sep 2022 15:30:00 +0430</lastBuildDate><atom:link href="https://alireza1219.ir/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>آموزشی</title>
+      <link>https://alireza1219.ir/categories/%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C/</link>
+      <pubDate>Tue, 20 Sep 2022 15:30:00 +0430</pubDate>
+      
+      <guid>https://alireza1219.ir/categories/%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
