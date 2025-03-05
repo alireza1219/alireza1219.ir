@@ -4,10 +4,17 @@
     <title>پست‌ها on Alireza Barani</title>
     <link>https://alireza1219.ir/posts/</link>
     <description>Recent content in پست‌ها on Alireza Barani</description>
-    <generator>Hugo -- 0.144.2</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>fa</language>
-    <lastBuildDate>Sun, 23 Feb 2025 11:11:00 +0330</lastBuildDate>
+    <lastBuildDate>Wed, 05 Mar 2025 13:21:00 +0330</lastBuildDate>
     <atom:link href="https://alireza1219.ir/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>آموزش راه‌اندازی WP-CLI در سیستم‌عامل ویندوز</title>
+      <link>https://alireza1219.ir/posts/how-to-setup-wp-cli-in-windows/</link>
+      <pubDate>Wed, 05 Mar 2025 13:21:00 +0330</pubDate>
+      <guid>https://alireza1219.ir/posts/how-to-setup-wp-cli-in-windows/</guid>
+      <description>آسان‌ترین راه ممکن برای داشتن WP-CLI در ویندوز</description>
+    </item>
     <item>
       <title>در ستایش فوریه</title>
       <link>https://alireza1219.ir/posts/in-praise-of-february/</link>
