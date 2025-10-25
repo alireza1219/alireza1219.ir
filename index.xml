@@ -62,7 +62,23 @@
       <link>https://alireza1219.ir/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alireza1219.ir/about/</guid>
-      <description>&lt;p&gt;به زودی :)&lt;/p&gt;</description>
+      <description>&lt;video class=&#34;video-shortcode about-me-intro&#34;
+       
+       
+       autoplay
+       loop
+       muted
+       
+       
+       
+       &gt;
+  &lt;source src=&#34;https://files.alireza1219.ir/files/2025/10/about.mp4&#34; type=&#34;video/mp4&#34;&gt;
+  
+  There should have been a video here but your browser does not seem to support it.
+&lt;/video&gt;
+&lt;p&gt;سلام، من علیرضا‌م! یه کدباز قدیمی از نسل نورتون کامندر 😏&lt;/p&gt;
+&lt;p&gt;این روزا بیشتر وقتم با PHP و وردپرس می‌گذره، جایی که بین فانکشن‌ها و هوک‌ها دنبال یه تکه کد تمیز و بی‌نقص می‌گردم.
+ولی وقتی دلم یه چالش تازه می‌خواد با پایتون وقت می‌گذرونم؛ همون زبان ساده و منعطفی که مثل یه دوست قدیمی همیشه پایه‌ست 🐍&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
